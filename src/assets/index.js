@@ -23,12 +23,12 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import maqImage from "./company/maqImage.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import cityComfort from "./cityComfort.png";
+import portfolio from "./portfolio.png";
+import StreamingPlatform from "./StreamingPlatform.png";
 
 export {
   logo,
@@ -54,9 +54,9 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  maqImage,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  cityComfort,
+  portfolio,
+  StreamingPlatform,
 };
